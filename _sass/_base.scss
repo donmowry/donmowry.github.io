@@ -130,7 +130,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #d9d9d9;
 }
 
 code {
@@ -193,12 +193,12 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 32px;
+        height: 32px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $steel-color;
         }
     }
 }
