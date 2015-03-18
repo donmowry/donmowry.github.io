@@ -1,5 +1,5 @@
 # Site settings
-title: A Book about Me
+title: Don Mowry
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.donmowry.com" # the base hostname & protocol for your site
 twitter_username: donmowry

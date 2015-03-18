@@ -10,14 +10,13 @@
 $base-font-size:       16px;
 $small-font-size:      $base-font-size * 0.875;
 $base-line-height:     1.5;
-$page-font-family:     'Sorts Mills Goudy', serif;
-$base-font-family:    'Source Sans Pro', sans-serif;
+$title-font-family:     'Sorts Mills Goudy', serif;
+$base-font-family:     'Source Sans Pro', sans-serif;
                        
 $spacing-unit:         30px;
                        
 $text-color:           #111;
 $background-color:     #ededed;
-$brand-color:          #2a7ae2;
                        
 $grey-color:           #828282;
 $grey-color-light:     lighten($grey-color, 40%);
@@ -28,6 +27,8 @@ $steel-color-light:    lighten($steel-color, 40%);
 $steel-color-mid:      lighten($steel-color, 15%);
 $steel-color-dark:     darken($steel-color, 25%);
                        
+$brand-color:          $steel-color-dark;
+
 $on-palm:              600px;
 $on-laptop:            800px;
 
