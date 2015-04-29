@@ -10,8 +10,8 @@
 	background: -webkit-linear-gradient($steel-color-mid, $steel-color);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='$steel-color', endColorstr='$steel-color-dark')";
 
-    position: fixed;
-	width: 100%;
+//    position: fixed;
+//	width: 100%;
     text-align: center;
 	color: $steel-color-dark;
 	
@@ -73,7 +73,7 @@
  * Page content
  */
 .page-content {
-    padding: ($spacing-unit * 5) 0;
+    padding: $spacing-unit 0;
     background-color: $background-color;
 }
 
@@ -147,4 +147,10 @@
         }
     }
 	
+	a {
+	    &,
+	    &:visited {
+	        color: $steel-color;
+		}
+	}
 }
