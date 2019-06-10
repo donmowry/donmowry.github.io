@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solid Engineering - I is for Interface Segregation"
-date:   2015-10-11
+date:   2015-10-11  19:32:10 -0700
 categories: programming solid
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solid Engineering - S is for Single Responsibility"
-date:   2015-04-28
+date:   2015-04-28  19:32:10 -0700
 categories: programming solid
 ---
 

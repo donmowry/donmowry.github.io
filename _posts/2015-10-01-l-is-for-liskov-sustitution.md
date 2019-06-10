@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solid Engineering - L is for Liskov Substitution"
-date:   2015-10-01
+date:   2015-10-01  19:32:10 -0700
 categories: programming solid
 ---
 

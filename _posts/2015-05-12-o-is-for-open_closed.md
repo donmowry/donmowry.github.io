@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solid Engineering - O is for Open/Closed"
-date:   2015-05-12
+date:   2015-05-12  19:32:10 -0700
 categories: programming solid
 ---
 

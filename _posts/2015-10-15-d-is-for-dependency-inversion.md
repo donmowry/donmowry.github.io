@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solid Engineering - D is for Dependency Inversion"
-date:   2015-10-15
+date:   2015-10-15  19:32:10 -0700
 categories: programming solid
 ---
 

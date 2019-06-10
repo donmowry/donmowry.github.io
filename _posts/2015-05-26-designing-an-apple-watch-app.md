@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Designing an Apple Watch App"
-date:   2015-05-26
+date:   2015-05-26  19:32:10 -0700
 categories: apple watch programming design
 ---
 
