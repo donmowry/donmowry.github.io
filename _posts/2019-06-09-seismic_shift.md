@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Seismic Shift"
-date:   2019-06-09  20:00:10 -0700
+date:   2019-06-09 20:00:10 -0700
 categories: [programming, apple] 
 ---
 
