@@ -15,10 +15,10 @@ I'm going to be following the [Vapor docs](https://docs.vapor.codes/3.0/getting-
 
 The first step is installing the Vapor Toolbox via Homebrew.
 
-```sh
+{% highlight sh %}
 brew tap vapor/tap
 brew install vapor/tap/vapor
-```
+{% endhighlight %}
 
 Next we'll create a new site:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Big Shop Process for the Small Shop"
-date:   2019-07-20  20:00:10 -0700
+date:   2019-07-20 20:00:10 -0700
 categories: programming process 
 ---
 
