@@ -93,7 +93,7 @@ And we get a response!
 {"status":"open","id":"CDEFA388-581F-4DEC-B1EA-6AD3019D6271","title":"My first ToDo, by Fisher Price","createdOn":"2019-11-07T05:50:39Z","priority":"high","updatedOn":"2019-11-07T05:50:39Z"}
 ```
 
-Going back to [http://localhost:8080/todos], we still see no Todos, though. Opening the database and querying, we see nothing.  The reason is that I've supplied an `id`, which of course is not necessary as the ORM will be handling the creation of that on insertion.  It's strange that we don't get an error, but instead get the JSON mirrored back to us.  Anyway, let's try again:
+Going back to [http://localhost:8080/todos](http://localhost:8080/todos), we still see no Todos, though. Opening the database and querying, we see nothing.  The reason is that I've supplied an `id`, which of course is not necessary as the ORM will be handling the creation of that on insertion.  It's strange that we don't get an error, but instead get the JSON mirrored back to us.  Anyway, let's try again:
 ```bash
 curl -H "Content-Type: application/json" -X POST -d '{"title": "My first ToDo, by Fisher Price", "createdOn": "2019-11-07T05:50:39Z", "updatedOn": "2019-11-07T05:50:39Z", "status": "open", "priority": "high"}' http://localhost:8080/todos
 ```
