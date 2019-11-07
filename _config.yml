@@ -1,7 +1,7 @@
 # Site settings
 title: Don Mowry
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.donmowry.com" # the base hostname & protocol for your site
+url: "https://www.donmowry.com" # the base hostname & protocol for your site
 twitter_username: donmowry
 github_username:  donmowry
 description: "© Don Mowry"
